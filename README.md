@@ -95,6 +95,10 @@ The 5 most profitable items by total purchase value, are listed hereunder:
 	92	Final Critic					8		4.88		39.04
 	103	Singed Scalpel					8		4.35		34.80
 
+## Conclusions
+- Males are the main users of this game with more than 80% of the population (we could identify more products that can be attractive to males, maybe sports related)
+- The game is popular for the range of 20 and 24 years old (we could market it more for these ages on the internet)
+- "Oathbreaker, Last Hope of the Breaking Storm" is the most popular and profitable item (we should make more of these)
 
 ## Authors
 
