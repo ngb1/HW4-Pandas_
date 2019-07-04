@@ -7,14 +7,12 @@ The final report includes each of the following:
 
 ## Player Count
 
-Total Number of Players
+Total Number of Players: 576
 
 ## Purchasing Analysis (Total)
 
-Number of Unique Items
-Average Purchase Price
-Total Number of Purchases
-Total Revenue
+	Number of Unique Items	Average Price [$]	Number of Purchases	Total Revenue [$]
+0	183	3.051	183	2379.77
 
 ## Gender Demographics
 
